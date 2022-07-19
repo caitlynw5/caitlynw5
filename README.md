@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am an incoming student at the University of Washington studying computer science.
 
 <!--
 **caitlynw5/caitlynw5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
