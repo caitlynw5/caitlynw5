@@ -1,4 +1,4 @@
-### Hi there 👋 I am an incoming student at the University of Washington studying computer science.
+### Hi there 👋 I am currently a computer science student at the University of Washington with a strong interest in system design, backend programming, deep learning, and AI/ ML problems. I am always looking for new projects and opportunities to further grow my skill set. Feel free to reach me at caitlynw@uw.edu 📫
 
 <!--
 **caitlynw5/caitlynw5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
