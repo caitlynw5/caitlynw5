@@ -1,4 +1,45 @@
-### Hi there 👋 I am currently a computer science student at the University of Washington with a strong interest in system design, backend programming, deep learning, and AI/ ML problems. I am always looking for new projects and opportunities to further grow my skill set. Feel free to reach me at caitlynw@uw.edu 📫
+# Caitlyn Widjaja | Computer Science Student
+
+Aspiring Software Engineer with hands-on experience in analyzing data and building llms.
+I focus on **clean code, scalable solutions, and continuous learning.**
+
+- 🎓 Computer Science at the Paul G. Allen School @ University of Washington
+- 💻 Interests: Machine Learning, AI, NLP, Prodcut Management, Design
+- 🌱 Currently learning: Go, gRPC, programming with VMs, Python for Data Science
+- 📫 Reach me: widjajacaitlyn@gmail.com
+
+---
+
+### Technical Skills
+- **Languages:** Java, Python, C#, SQL
+- **Frameworks & Tools:** React, Node.js, Flask, Docker, Git, Django, .NET
+- **Databases & Cloud:** PostgreSQL, MySQL, Azure DevOps, 
+- **Other:** REST APIs, Test-Driven Development, Model Fine-tuning, Neural Networks, Mobile Development
+
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [**Project 1**](GitHub Repo URL) | Built a [1-line description focused on measurable impact or functionality] | Python, Flask |
+| [**Project 2**](GitHub Repo URL) | Developed [short impactful description] | React, Node.js |
+| [**Project 3**](GitHub Repo URL) | Implemented [feature/solution] to solve [problem] | Java, Spring Boot |
+
+---
+
+### 📊 GitHub Highlights
+- Contributions to **X+ repositories** across [open source / academic / personal projects]  
+- Experience with **version control**, **code reviews**, and **collaborative development**  
+-Github Stats Card 
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/caitlyn-widjaja]
+- **Email:** widjajacaitlyn@gmail.com or caitlynw@uw.edu
+
+---
 
 <!--
 **caitlynw5/caitlynw5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
