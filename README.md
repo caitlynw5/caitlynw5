@@ -1,6 +1,6 @@
 # Caitlyn Widjaja | Computer Science Student
 
-Aspiring Software Engineer with hands-on experience in analyzing data and building llms.
+Aspiring Software Engineer with hands-on experience in building with AI, data, and efficient systems.
 I focus on **clean code, scalable solutions, and continuous learning.**
 
 - 🎓 Computer Science at the Paul G. Allen School @ University of Washington
@@ -22,7 +22,7 @@ I focus on **clean code, scalable solutions, and continuous learning.**
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [**Project 1**](GitHub Repo URL) | Built a [1-line description focused on measurable impact or functionality] | Python, Flask |
+| [**Enhahncing MadVerse Dataset Annotations**](https://github.com/caitlynw5/enhancing-madverse-annotations) | Automated design attribute annotation for 50K+ ads using OCR and vision models, improving brand-aligned ad generation quality by 36% in CLIP alignment. | Python, Tesseract OCR, OpenCV, ONNX, CLIP |
 | [**Project 2**](GitHub Repo URL) | Developed [short impactful description] | React, Node.js |
 | [**Project 3**](GitHub Repo URL) | Implemented [feature/solution] to solve [problem] | Java, Spring Boot |
 
