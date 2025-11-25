@@ -31,7 +31,7 @@ I focus on **clean code, scalable solutions, and continuous learning.**
 ### 📊 GitHub Highlights
 - Experience with **version control**, **code reviews**, and **collaborative development**  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=caitlynw5)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=caitlynw5&theme=tokyonight)](https://github.com/KasRoudra/github-stats-card)
 
 ---
 
