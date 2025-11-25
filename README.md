@@ -24,7 +24,7 @@ I focus on **clean code, scalable solutions, and continuous learning.**
 |--------|-------------|------|
 | [**Enhahncing MadVerse Dataset Annotations**](https://github.com/caitlynw5/enhancing-madverse-annotations) | Automated design attribute annotation for 50K+ ads using OCR and vision models, improving brand-aligned ad generation quality by 36% in CLIP alignment. | Python, Tesseract OCR, OpenCV, ONNX, CLIP |
 | [**Census Income Prediction**](https://github.com/caitlynw5/census-income-prediction) | Developed binary classification model predicting $50K+ income from census data with 87% accuracy using Gradient Boosting. | Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook |
-| [**Project 3**](GitHub Repo URL) | Implemented [feature/solution] to solve [problem] | Java, Spring Boot |
+| [**Salesforce CRM Intelligence Assistant**](https://github.com/ishween/Team2A)| PUBLIC SOON | Python, Sentence Transformers, Gradio, ChromaDB |
 
 ---
 
