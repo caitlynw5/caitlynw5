@@ -29,14 +29,16 @@ I focus on **clean code, scalable solutions, and continuous learning.**
 ---
 
 ### 📊 GitHub Highlights
-- Contributions to **X+ repositories** across [open source / academic / personal projects]  
 - Experience with **version control**, **code reviews**, and **collaborative development**  
--Github Stats Card 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=caitlynw5&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caitlynw5&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/caitlyn-widjaja]
+- **LinkedIn:** [[linkedin.com/in/caitlyn-widjaja]](https://www.linkedin.com/in/caitlyn-widjaja/)
 - **Email:** widjajacaitlyn@gmail.com or caitlynw@uw.edu
 
 ---
